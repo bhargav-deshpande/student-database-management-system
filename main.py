@@ -40,7 +40,7 @@ def main():
                 print("Exit")
                 break
             case _:
-                print*"Invalid Input"
+                print("Invalid Input")
 
 if __name__=="__main__":
     try:
